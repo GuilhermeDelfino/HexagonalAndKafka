@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/addresses/08290210"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "street": "Rua Santo antonio",
+      "city": "Sao Paulo",
+      "state": "SP"
+    }
+  }
+}
